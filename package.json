@@ -1,6 +1,6 @@
 {
   "name": "angular-lodash-filter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "AngularJS (v1) filter wrapper for the lodash library.",
   "homepage": "https://github.com/orianda/angular-lodash-filter",
   "main": "src/index.js",
