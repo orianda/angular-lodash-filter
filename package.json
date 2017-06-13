@@ -1,0 +1,47 @@
+{
+  "name": "angular-lodash-filter",
+  "version": "0.0.0",
+  "description": "AngularJS (v1) filter wrapper for the lodash library.",
+  "homepage": "https://github.com/orianda/angular-lodash-filter",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "gulp build",
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orianda/angular-lodash-filter.git"
+  },
+  "keywords": [
+    "angular",
+    "lodash",
+    "filter"
+  ],
+  "author": "Orianda <orianda@paan.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orianda/angular-lodash-filter/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.6.2",
+    "angular-mocks": "^1.6.2",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-gzip": "^1.4.0",
+    "gulp-header": "^1.8.8",
+    "gulp-help": "^1.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^3.0.0",
+    "jasmine": "^2.5.3",
+    "jshint": "^2.9.4",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "lodash": "^4.17.4",
+    "run-sequence": "^1.2.2"
+  }
+}

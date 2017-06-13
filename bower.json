@@ -1,0 +1,25 @@
+{
+  "name": "angular-lodash-filter",
+  "description": "AngularJS (v1) filter wrapper for the lodash library.",
+  "main": "src/index.js",
+  "authors": [
+    "Orianda <orianda@paan.de>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "lodash",
+    "filter"
+  ],
+  "homepage": "https://github.com/orianda/angular-lodash-filter",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
